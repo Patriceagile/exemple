@@ -4,6 +4,7 @@ pipeline {
     stage('nightmare') {
       steps {
         echo 'help'
+        echo 'help'
       }
     }
 
